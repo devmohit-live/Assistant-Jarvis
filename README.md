@@ -102,6 +102,5 @@
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
         <li>By email: mohit.188604@knit.ac.in</li>
-          
-        </ul>
+</ul>
 
